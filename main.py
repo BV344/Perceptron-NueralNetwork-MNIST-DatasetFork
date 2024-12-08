@@ -1,3 +1,5 @@
+# Group Members
+# Ian Boskin, Luis Carmona, and Brayan Vizcaino
 
 from Function import *
 import numpy as np
